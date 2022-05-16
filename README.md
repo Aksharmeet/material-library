@@ -8,9 +8,9 @@ In the project directory, you can run:
 
 ### `npm start`
 
-## For runing the app
+## For runing the app.
 
 ### `npm run build`
 
-## For production build
+## For production build.
 
